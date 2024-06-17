@@ -2,6 +2,9 @@
   "name": "@ptm/hono-social-icons",
   "version": "0.1.0",
   "exports": "./src/mod.ts",
+  "publish": {
+    "include": ["README.md", "deno.json"]
+  },
   "compilerOptions": {
     "jsx": "precompile",
     "jsxImportSource": "jsr:@hono/hono@^4.4.6/jsx"
