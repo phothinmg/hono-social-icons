@@ -1,36 +1,37 @@
 # Social icons with links for Hono Jsx (Deno Runtime)
 
-***Icons are get from https://tabler.io/***
+**_Icons are get from https://tabler.io/_**
 
-## Available icons 
+## Available icons
 
-- IconTwitterX
-- IconTwitterXFilled
-- IconGithub
-- IconGithubFilled
-- IconLinkedin
-- IconDiscord
-- IconDiscordFilled
-- IconFacebook
-- IconFacebookFilled
-- IconGitlab
-- IconWechat
-- IconWhatsapp
-- IconWordpress
-- IconBitbucket
+- "github"
+- "twitter"
+- "linkedin"
+- "facebook"
+- "whatsapp"
+- "wordpress"
+- "wechat"
+- "gitlab"
+- "bitbucket"
+- "discord"
 
-## Usage 
+## Usage
 
 ### deno.json
 
-For JSX runtime
+Setup hono jsx runtime in deno.json.
 
 ```json
 {
-    "compilerOptions": {
+  "compilerOptions": {
     "jsx": "precompile",
     "jsxImportSource": "jsr:@hono/hono@^4.4.6/jsx"
-  },
+  }
 }
+```
+
+Import component from jsDelivr
+
+```js
 
 ```
