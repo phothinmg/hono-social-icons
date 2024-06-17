@@ -12,8 +12,14 @@
 deno add @ptm/hono-social-icons
 ```
 
-```js
+```ts
 import { SocialIcon } from "@ptm/hono-social-icons";
+```
+
+#### From denoland/x
+
+```ts
+import { SocialIcon } from "https://deno.land/x/hono_social_icons@0.1.1/src/mod.ts";
 ```
 
 ---
