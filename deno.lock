@@ -1,0 +1,21 @@
+{
+  "version": "3",
+  "packages": {
+    "specifiers": {
+      "jsr:@hono/hono@^4.4.6": "jsr:@hono/hono@4.4.6",
+      "npm:@types/node": "npm:@types/node@18.16.19"
+    },
+    "jsr": {
+      "@hono/hono@4.4.6": {
+        "integrity": "aa557ca9930787ee86b9ca1730691f1ce1c379174c2cb244d5934db2b6314453"
+      }
+    },
+    "npm": {
+      "@types/node@18.16.19": {
+        "integrity": "sha512-IXl7o+R9iti9eBW4Wg2hx1xQDig183jj7YLn8F7udNceyfkbn1ZxmzZXuak20gR40D7pIkIY1kYGx5VIGbaHKA==",
+        "dependencies": {}
+      }
+    }
+  },
+  "remote": {}
+}

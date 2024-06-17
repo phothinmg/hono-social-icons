@@ -1,0 +1,4 @@
+{
+  "jsr:@hono/hono@^4.4.6": "jsr:@hono/hono@4.4.6",
+  "npm:@types/node": "npm:@types/node@18.16.19"
+}
