@@ -88,7 +88,7 @@ FC<{ name: string; href: string; size?: number; stoke?: number }>;
 - stoke: Size of stoke width , Optional , default 2 (limit =< 2)
 
 
-#### Available icons and text
+#### Text for available icons 
 
 - "github"
 - "twitter"
